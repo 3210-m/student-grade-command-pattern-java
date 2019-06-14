@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="student-grade-command-pattern-java-2019-1-8-2-59-10-727.main" target="1.8" />
+      <module name="student-grade-command-pattern-java-2019-1-8-2-59-10-727.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
